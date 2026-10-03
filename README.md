@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://i.pinimg.com/originals/ab/8b/19/ab8b1965fbef559c03f16f9f46363d07.gif" width="90%" alt="Header GIF" />
+  <img src="https://i.pinimg.com/originals/ab/8b/19/ab8b1965fbef559c03f16f9f46363d07.gif" width="75%" alt="Header GIF" />
 </p>
 
-# Hi, I'm Atqiya <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" alt="Waving hand">
+# Hi, I'm Qy <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" alt="Waving hand">
 
 **Software & Applied AI Engineer · Open Source Contributor**
 
