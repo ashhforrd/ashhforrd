@@ -4,7 +4,7 @@
 
 # Hi, I'm Qy <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" alt="Waving hand">
 
-**Software & Applied AI Engineer · Open Source Contributor**
+**Software & Applied AI Engineer | Computer Science Fresh Graduate 2026**
 
 I build backend systems, AI-powered applications, and production software with a focus on reliability, performance, and clean engineering.
 
